@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom';
 
 function Example() {
     return (
-        <p>
-            Hello world!
-        </p>
+      
+            <select>
+              <option value="1">First</option>
+              <option value="2">Second</option>
+            </select>
+       
     );
 }
 
